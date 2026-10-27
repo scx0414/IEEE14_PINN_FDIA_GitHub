@@ -1,0 +1,2 @@
+# IEEE14_PINN_FDIA_GitHub
+模型效果
