@@ -1,0 +1,88 @@
+{
+  "LSTM": {
+    "base": {
+      "window": 12,
+      "hidden": 128,
+      "recurrent_layers": 1,
+      "head_width": 256,
+      "batch_size": 64,
+      "learning_rate": 0.0005446158553989247,
+      "physics_weight": 0.35,
+      "epochs": 200,
+      "schedule": "cosine"
+    },
+    "refine": {
+      "window": 12,
+      "hidden": 128,
+      "recurrent_layers": 1,
+      "head_width": 256,
+      "batch_size": 64,
+      "learning_rate": 4.3569268431913974e-05,
+      "physics_weight": 0.35,
+      "epochs": 100,
+      "schedule": "fixed"
+    }
+  },
+  "P_sLSTM": {
+    "base": {
+      "blocks": 1,
+      "head": 256,
+      "read": 32,
+      "batch_size": 64,
+      "window": 12,
+      "dim": 64,
+      "lr": 0.0005,
+      "physics_weight": 0.35,
+      "epochs": 200,
+      "schedule": "cosine",
+      "shortcut": false,
+      "patch": 6,
+      "stride": 6
+    },
+    "refine": {
+      "blocks": 1,
+      "head": 256,
+      "read": 32,
+      "batch_size": 64,
+      "window": 12,
+      "dim": 64,
+      "lr": 1e-05,
+      "physics_weight": 0.35,
+      "epochs": 100,
+      "schedule": "fixed",
+      "shortcut": false,
+      "patch": 6,
+      "stride": 6
+    }
+  },
+  "xLSTM_Mixer": {
+    "base": {
+      "blocks": 1,
+      "head": 256,
+      "read": 32,
+      "batch_size": 64,
+      "window": 24,
+      "dim": 32,
+      "lr": 0.0008,
+      "physics_weight": 0.6,
+      "epochs": 200,
+      "schedule": "cosine",
+      "shortcut": false,
+      "time_features": 32
+    },
+    "refine": {
+      "blocks": 1,
+      "head": 256,
+      "read": 32,
+      "batch_size": 64,
+      "window": 24,
+      "dim": 32,
+      "lr": 6.400000000000001e-05,
+      "physics_weight": 0.6,
+      "epochs": 100,
+      "schedule": "fixed",
+      "shortcut": false,
+      "time_features": 32
+    }
+  }
+}

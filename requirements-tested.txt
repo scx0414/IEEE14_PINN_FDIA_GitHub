@@ -1,0 +1,4 @@
+# Locally validated versions. Select the appropriate Torch CPU/CUDA distribution separately.
+numpy==1.26.4
+scipy==1.13.1
+torch==2.9.0

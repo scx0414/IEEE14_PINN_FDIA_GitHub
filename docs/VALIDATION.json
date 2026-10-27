@@ -1,0 +1,66 @@
+{
+  "unit_tests": 8,
+  "synthetic_CPU_demo_passed": true,
+  "wheel_build_passed": true,
+  "wheel_contains_third_party_license": true,
+  "old_weight_output_checks": [
+    {
+      "model": "LSTM",
+      "seed": 2024,
+      "max_absolute_state_output_difference": 0.0
+    },
+    {
+      "model": "LSTM",
+      "seed": 2025,
+      "max_absolute_state_output_difference": 0.0
+    },
+    {
+      "model": "LSTM",
+      "seed": 2026,
+      "max_absolute_state_output_difference": 0.0
+    },
+    {
+      "model": "P_sLSTM",
+      "seed": 2024,
+      "max_absolute_state_output_difference": 0.0
+    },
+    {
+      "model": "P_sLSTM",
+      "seed": 2025,
+      "max_absolute_state_output_difference": 0.0
+    },
+    {
+      "model": "P_sLSTM",
+      "seed": 2026,
+      "max_absolute_state_output_difference": 0.0
+    },
+    {
+      "model": "xLSTM_Mixer",
+      "seed": 2024,
+      "max_absolute_state_output_difference": 0.0
+    },
+    {
+      "model": "xLSTM_Mixer",
+      "seed": 2025,
+      "max_absolute_state_output_difference": 0.0
+    },
+    {
+      "model": "xLSTM_Mixer",
+      "seed": 2026,
+      "max_absolute_state_output_difference": 0.0
+    }
+  ],
+  "continuous_attack_configs": 9,
+  "old_weight_metrics_rows": 81,
+  "all_historical_counts_and_reported_metrics_identical": true,
+  "FDIA_regeneration_max_difference": 7.66053886991358e-15,
+  "environment": {
+    "python": "3.12.7",
+    "numpy": "1.26.4",
+    "torch": "2.9.0+cu126"
+  },
+  "limitations": "Local checks; remote GitHub Actions has not run. No claim of bitwise new-training reproducibility.",
+  "MATLAB_BDD_smoke_samples": 20,
+  "MATLAB_BDD_residual_independently_verified": true,
+  "isolated_wheel_all_three_models_passed": true
+}

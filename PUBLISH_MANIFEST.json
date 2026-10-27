@@ -1,0 +1,350 @@
+{
+  "files": [
+    {
+      "path": ".github/workflows/tests.yml",
+      "bytes": 594,
+      "sha256": "ee6fe6d860cb82ed837dc7f5c524da0d8d0ae834c13f799aaadf188f4310791d"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 192,
+      "sha256": "986b92331b354239d4d57784cdb767ebbd2ab04fe85a249a1ed9bd5be88d5fa3"
+    },
+    {
+      "path": "configs/attacks_continuous15.json",
+      "bytes": 166,
+      "sha256": "8b59a2eb34c6c4ae6780b819fa944d0a2b2216907c900c8cf786600e6a8cea49"
+    },
+    {
+      "path": "configs/models.json",
+      "bytes": 1863,
+      "sha256": "fb941e1fcb205e362c1808ba39095c1901f2053aea85f6bb5ee8cae5273097a3"
+    },
+    {
+      "path": "configs/split.json",
+      "bytes": 79,
+      "sha256": "27ff1fc21a96848936f49368500b4ca7ac38e56ac0ca00f5af3dcaa73a15db5e"
+    },
+    {
+      "path": "docs/DATA_FORMAT.md",
+      "bytes": 2320,
+      "sha256": "87fd98879215fea8098b82d3c490ebea66d72ec0cfb87aad094afcd74c5fe6e8"
+    },
+    {
+      "path": "docs/PUBLISHING.md",
+      "bytes": 1464,
+      "sha256": "383bd5f0ad8d76d6e4de5eead4d0bca4bd3af7946b15a08da57cda6eb7025e94"
+    },
+    {
+      "path": "docs/REPRODUCIBILITY.md",
+      "bytes": 2938,
+      "sha256": "58029a3700ead8a7bfc8c15492350a299e0a5d7eb3b6b34e2290b0e12449924b"
+    },
+    {
+      "path": "docs/VALIDATION.json",
+      "bytes": 1765,
+      "sha256": "84160d4f4f747ea387618fa46301af0e65571c8e9d16c0599808b376d41ff361"
+    },
+    {
+      "path": "examples/ieee14_network.json",
+      "bytes": 3494,
+      "sha256": "ffadf403dc59a2808cfe64edc9a4cc70247e050c9c6cf3895cf6c3f81d95a569"
+    },
+    {
+      "path": "matlab/ac_wls.m",
+      "bytes": 1431,
+      "sha256": "2c74c9f983fcbeba1b7cd0e4ed2004c6a022f2ef5495dfdbf2b05639795df29a"
+    },
+    {
+      "path": "matlab/check_bdd.m",
+      "bytes": 901,
+      "sha256": "4edfbb41da2062560555a850a568aaebd1201c8d39cab6bacd68a3d7387a7820"
+    },
+    {
+      "path": "matlab/measurement_model.m",
+      "bytes": 348,
+      "sha256": "fb46b827f978f42464da9b9e733a2e87de5e0e84d092d5aed34a86c16b0c77ba"
+    },
+    {
+      "path": "pyproject.toml",
+      "bytes": 650,
+      "sha256": "79cc87d27b7c39287cb27b7bba0b35a325f6fa60408aa5111524db1d7b523360"
+    },
+    {
+      "path": "README.md",
+      "bytes": 7304,
+      "sha256": "3d30f46e8cecbedc7b345f9ba2e8678b5642edaced71632ff4989fd692ce3a12"
+    },
+    {
+      "path": "requirements-tested.txt",
+      "bytes": 134,
+      "sha256": "385297fe3b78cfd4a00509f055f3f05bfbaf38abf7864da05ba74bcfeb8b78eb"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 44,
+      "sha256": "688160095b01bfeb47a5a3de498f8f74f7c291261f1371ef6becfb9c5ef47990"
+    },
+    {
+      "path": "results/reference/bdd_summary.csv",
+      "bytes": 498,
+      "sha256": "e80f8007e6b2ff0d40d0dd5108df10a50d3a8efb2a53dba7cc30767d6bc5a327"
+    },
+    {
+      "path": "results/reference/metrics.csv",
+      "bytes": 18411,
+      "sha256": "02521d167c44847e1e925af253c15ee53058beefbee99b04e8362114eead81f0"
+    },
+    {
+      "path": "results/reference/normal_metrics.csv",
+      "bytes": 1159,
+      "sha256": "9ea365e205401b40efcefc62d08e4a532322e5fedd9df96977c4b5bafbc52d93"
+    },
+    {
+      "path": "results/reference/summary.csv",
+      "bytes": 10134,
+      "sha256": "6c08f3096134c9ca972cf7d445d965538fa851c9e3c554aadb5781801edade6a"
+    },
+    {
+      "path": "src/ieee14_fdia/__init__.py",
+      "bytes": 92,
+      "sha256": "2a8a30dd03eae42906f49359fd567b0e453419e5e52541e0a71d1c6869cba095"
+    },
+    {
+      "path": "src/ieee14_fdia/__main__.py",
+      "bytes": 30,
+      "sha256": "6d8b7d7846a845059d7a3107143f11131f63c5511d669b44085b15ec5e3d2279"
+    },
+    {
+      "path": "src/ieee14_fdia/_vendor/__init__.py",
+      "bytes": 74,
+      "sha256": "c453f64f228a47f2e1cf7674e96b7c36ed0b5c7259ead119585dbce7525a2a5a"
+    },
+    {
+      "path": "src/ieee14_fdia/_vendor/xlstm_core/__init__.py",
+      "bytes": 470,
+      "sha256": "97eab8c45d59ad3e0787effa43a3108e516efb5ae817da397eef4acd3f3cffe0"
+    },
+    {
+      "path": "src/ieee14_fdia/_vendor/xlstm_core/blocks/__init__.py",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "src/ieee14_fdia/_vendor/xlstm_core/blocks/mlstm/__init__.py",
+      "bytes": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "src/ieee14_fdia/_vendor/xlstm_core/blocks/mlstm/backends.py",
+      "bytes": 5901,
+      "sha256": "890ce31de3a5a7efe2c8f1ad323a3264d6caf1f145688817b988d42d05464cd1"
+    },
+    {
+      "path": "src/ieee14_fdia/_vendor/xlstm_core/blocks/mlstm/block.py",
+      "bytes": 601,
+      "sha256": "25e5c107cf003890a1a2ad7b9634dbaa5abc7ca4de549d3d05fe0cdd24d30d40"
+    },
+    {
+      "path": "src/ieee14_fdia/_vendor/xlstm_core/blocks/mlstm/cell.py",
+      "bytes": 5633,
+      "sha256": "552df10fa5349d5b56771edfcf2931561d5e734f57d2c46463eb74ce8fa40526"
+    },
+    {
+      "path": "src/ieee14_fdia/_vendor/xlstm_core/blocks/mlstm/layer.py",
+      "bytes": 6084,
+      "sha256": "c17901e25664f03100d231022e517399a324ce478a818c4b6781bba627ad6625"
+    },
+    {
+      "path": "src/ieee14_fdia/_vendor/xlstm_core/blocks/slstm/__init__.py",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "src/ieee14_fdia/_vendor/xlstm_core/blocks/slstm/block.py",
+      "bytes": 1188,
+      "sha256": "75c4e1e6a43dbd68bfe4cba2c0edc46c2972935e3b2fc48ddb03f64acce13662"
+    },
+    {
+      "path": "src/ieee14_fdia/_vendor/xlstm_core/blocks/slstm/cell.py",
+      "bytes": 29084,
+      "sha256": "8a6bcc99b61ffc7e98be1001857526c77d4484e364b7703c63122b8ef2a02374"
+    },
+    {
+      "path": "src/ieee14_fdia/_vendor/xlstm_core/blocks/slstm/layer.py",
+      "bytes": 5097,
+      "sha256": "583bdcc263de102d9bd594af2437a68541bbc4d7a34d71f46c7e54e221d3b720"
+    },
+    {
+      "path": "src/ieee14_fdia/_vendor/xlstm_core/blocks/slstm/src/__init__.py",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "src/ieee14_fdia/_vendor/xlstm_core/blocks/slstm/src/cuda_init.py",
+      "bytes": 2689,
+      "sha256": "faa2e8d24d523a12cc4c8b7e6da13f04a66329d94482699f490e509a9270a289"
+    },
+    {
+      "path": "src/ieee14_fdia/_vendor/xlstm_core/blocks/slstm/src/vanilla/__init__.py",
+      "bytes": 4108,
+      "sha256": "02b2d6398ad325f19b69e975e4a8097e343130a1a21429e0fe422c47a286c6b2"
+    },
+    {
+      "path": "src/ieee14_fdia/_vendor/xlstm_core/blocks/slstm/src/vanilla/lstm.py",
+      "bytes": 1037,
+      "sha256": "73c92a25d0afdab7243fa860beecdb44d066aacc1189a5b787726db57e5ebe09"
+    },
+    {
+      "path": "src/ieee14_fdia/_vendor/xlstm_core/blocks/slstm/src/vanilla/slstm.py",
+      "bytes": 1268,
+      "sha256": "4a9c96b41f7854cd8d729648aa9391ec2ab5e76c1e85f4369941d02099574946"
+    },
+    {
+      "path": "src/ieee14_fdia/_vendor/xlstm_core/blocks/xlstm_block.py",
+      "bytes": 3389,
+      "sha256": "c0da31d26732938797c60a7bba525f3d59de118daa79e1a4eae2069c315b0ac0"
+    },
+    {
+      "path": "src/ieee14_fdia/_vendor/xlstm_core/components/__init__.py",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "src/ieee14_fdia/_vendor/xlstm_core/components/conv.py",
+      "bytes": 5247,
+      "sha256": "3f70852e0dede2fb17adfb9e168f05e971d6fc30b44dbc058387d6f5c07a1b34"
+    },
+    {
+      "path": "src/ieee14_fdia/_vendor/xlstm_core/components/feedforward.py",
+      "bytes": 2935,
+      "sha256": "810df701d4f5b01ee906f9e09ee2970895940e46aeeb312feeeb4c8680c83f3e"
+    },
+    {
+      "path": "src/ieee14_fdia/_vendor/xlstm_core/components/init.py",
+      "bytes": 1289,
+      "sha256": "ae06b2344be99cb1674f86105fa9b13c301c2f92f34ccaa4abb4fe2f8c599c75"
+    },
+    {
+      "path": "src/ieee14_fdia/_vendor/xlstm_core/components/linear_headwise.py",
+      "bytes": 3289,
+      "sha256": "b3c47a124cbc1c4a32d853ccce3bb5c905e0d0636832bdd44a58e5d4fae3d37a"
+    },
+    {
+      "path": "src/ieee14_fdia/_vendor/xlstm_core/components/ln.py",
+      "bytes": 2134,
+      "sha256": "9e14304221e3e877c504a268458f38057632a316c3a2bf2e11c60f3a3507c748"
+    },
+    {
+      "path": "src/ieee14_fdia/_vendor/xlstm_core/components/util.py",
+      "bytes": 2642,
+      "sha256": "0974dc1b6f63bee59c7118e4f1bd7b0bcf620b24a88759654717c5ec1d446699"
+    },
+    {
+      "path": "src/ieee14_fdia/_vendor/xlstm_core/utils.py",
+      "bytes": 4976,
+      "sha256": "0baa37a9be0c8696bc1af41e56accc7ac076b971aba3a1d5984875d21fdc79e4"
+    },
+    {
+      "path": "src/ieee14_fdia/_vendor/xlstm_core/xlstm_block_stack.py",
+      "bytes": 4747,
+      "sha256": "072539efe3a4f10d09dfdbe177764eb9837715684caad173384ddbb3b85cc00d"
+    },
+    {
+      "path": "src/ieee14_fdia/_vendor/xlstm_core/xlstm_lm_model.py",
+      "bytes": 3030,
+      "sha256": "1eae6257b7c049dccce23735536b7bfed719e0a823679b35ad8d6577db8a05ba"
+    },
+    {
+      "path": "src/ieee14_fdia/_vendor/XLSTM_LICENSE",
+      "bytes": 11349,
+      "sha256": "3f13551f852e58a0a89d07a90fe77b6d48b5f67dbce5c83c2a657a41c0f28999"
+    },
+    {
+      "path": "src/ieee14_fdia/attacks.py",
+      "bytes": 5512,
+      "sha256": "97cbc746e43b0107989a6212a3f444182b5c4674855ed982e90d62a0fb8dfcee"
+    },
+    {
+      "path": "src/ieee14_fdia/cli.py",
+      "bytes": 5817,
+      "sha256": "d5f3848b13767564ea6e942fa04f20479d4a5ee94d32448d44f24c56af55e8f1"
+    },
+    {
+      "path": "src/ieee14_fdia/data.py",
+      "bytes": 1133,
+      "sha256": "b2115930742d8c402ce0f3309f7839d9cb1f64998e0ce78aa34798f3fcaa3df2"
+    },
+    {
+      "path": "src/ieee14_fdia/demo.py",
+      "bytes": 1966,
+      "sha256": "61a86c26da8bd17024d66e4fa02b5ab1d46940734804f82ebd73debe74aadeb6"
+    },
+    {
+      "path": "src/ieee14_fdia/detector.py",
+      "bytes": 2234,
+      "sha256": "1804c46578b2526bfeec4ad68ee692e890f8869e6f0f4babc3465f7246a543aa"
+    },
+    {
+      "path": "src/ieee14_fdia/inference.py",
+      "bytes": 3997,
+      "sha256": "ac614fb3479ed34a85a709c9b7d710bd359c1126b44a314c8f92f4bdc765f884"
+    },
+    {
+      "path": "src/ieee14_fdia/io.py",
+      "bytes": 1496,
+      "sha256": "498d9b01ce6fa72b4e3c41b9091d850cc0718d5dbe89c2c66f75e98bf69384d1"
+    },
+    {
+      "path": "src/ieee14_fdia/models.py",
+      "bytes": 6095,
+      "sha256": "f8984633638646121d99b64f07a9c3a1d00558833fa50c80232d5641cc8dc682"
+    },
+    {
+      "path": "src/ieee14_fdia/physics.py",
+      "bytes": 2275,
+      "sha256": "5bfe06734edc368db33f53925e83c517eb42bd2c926d20f28aa29019619e8891"
+    },
+    {
+      "path": "src/ieee14_fdia/pipeline.py",
+      "bytes": 7304,
+      "sha256": "22adb63c8d02a18681410c91e4b7278d6de5d70f522490d0723268ac1bebfdc6"
+    },
+    {
+      "path": "src/ieee14_fdia/training.py",
+      "bytes": 5483,
+      "sha256": "cd26051ceb1f335d6a274cf1207981f8690876ace2d0287d2047ac2e80181fe0"
+    },
+    {
+      "path": "tests/test_attacks.py",
+      "bytes": 1650,
+      "sha256": "bfbdbc17ecbee905f42c4cd4c1e139e2b39d90c1d65f1f1e7833d2cd0952d0f3"
+    },
+    {
+      "path": "tests/test_cli.py",
+      "bytes": 325,
+      "sha256": "3e5db5f7f66f4393f975d97efdefa184fed747cd0fc54855c66c1f99165c5dd2"
+    },
+    {
+      "path": "tests/test_models.py",
+      "bytes": 832,
+      "sha256": "b159c7fedea23b0643ea8b49ccbbc995beb2613573fd9503b9676d0325657564"
+    },
+    {
+      "path": "tests/test_physics_detector.py",
+      "bytes": 1466,
+      "sha256": "53e2200f863d29e99d72d897b27c426275a1847a8b25eb8833d13053ba7fd797"
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "bytes": 1167,
+      "sha256": "adbf3faa3eb7ff25210239e9dc4a6431dbc7bce2b46c9d490c1d73ea4bcb8bf6"
+    }
+  ],
+  "total_files": 68,
+  "total_bytes": 213025,
+  "raw_data_included": false,
+  "weights_included": false,
+  "private_paths_detected": false,
+  "original_experiments_untouched": true
+}

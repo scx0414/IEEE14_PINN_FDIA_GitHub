@@ -1,0 +1,9 @@
+{
+  "test_start": 20724,
+  "test_end": 25908,
+  "duration_steps": 15,
+  "normal_gap_steps": 48,
+  "replay_delay": 12,
+  "sampling_minutes": 5,
+  "seed": 2026102900
+}
